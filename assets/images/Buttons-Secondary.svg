@@ -1,0 +1,6 @@
+<svg id="Buttons_Secondary" data-name="Buttons/Secondary" xmlns="http://www.w3.org/2000/svg" width="165" height="50" viewBox="0 0 165 50">
+  <g id="Button">
+    <rect id="Base" width="165" height="50" rx="4" fill="#00c9a7"/>
+    <text id="Text" transform="translate(75.5 30)" fill="#fff" font-size="15" font-family="Nunito-SemiBold, Nunito" font-weight="600" letter-spacing="0.071em"><tspan x="-48.425" y="0">Get in Touch</tspan></text>
+  </g>
+</svg>
